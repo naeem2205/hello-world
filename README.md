@@ -1,4 +1,4 @@
-# hello-world git naeem, hotmail, github hotmail, 2121ghmonmo,naeem2205, repo hello-world
+# hello-world git
 Hello World repository for Git tutorial
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
